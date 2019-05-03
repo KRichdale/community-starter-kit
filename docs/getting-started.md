@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+-[x] Installation instructions
+-[x] Completing essential tasks
+-[x] Customizing and configuring

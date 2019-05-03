@@ -2,11 +2,12 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+* Welcome bot
+* Welcomes new users into repositorys
 
 FEATURES PLACEHOLDER
 
-## Getting started
+* Automatic bot
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 

@@ -4,7 +4,7 @@ DESCRIPTION PLACEHOLDER
 
 * Welcome bot
 * Welcomes new users into repositorys
-
+* A GitHub App built with probot that celebrates new user activity within your repository.
 FEATURES PLACEHOLDER
 
 * Automatic bot
